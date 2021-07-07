@@ -1,4 +1,4 @@
-# 👋**Hi** i'm [__mesik__](https://github.com/mesiik)
+# 👋**Hi** i'm [__Wukong__](https://github.com/WukongDEV)
 
 - <img src="https://cdn.discordapp.com/emojis/831641224778874941.png?v=1" align="left" width="22px"> I'm currently working on [**Specty**](https://bots4.fun) cool multipurpose bot for [**discord**](https://discord.com)
 
@@ -7,15 +7,6 @@
 - <img src="https://cdn.discordapp.com/emojis/831641173205843979.png?v=1" width="22px" align=left> I love drinking TEA, and i hate coffee.
 
  <img src="https://cdn.discordapp.com/emojis/831641113311576084.png?v=1" width="25px" align="left">You can reach me on discord, [`mesik#0001`](https://discord.com/users/563718132863074324) or join my [`server`](https://discord.com/invite/Zbfvh88dgK)<br>
-
-# My projects
-
- [SPECTY](https://bots4.fun) **Discord Multipurpose bot!** (`private`)<br>
- [SNIPER](https://github.com/mesiik/sniper) Discord bot that snipes deleted messages! (`public`)<br>
- [Discord.py Template](https://github.com/mesiik/discord.py-cogs) Cool template to start your coding adventure (`public`)<br><br>
-`
-MORE COMING SOON!
-`
 
 <br>
 
