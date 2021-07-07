@@ -6,7 +6,7 @@
 - <img src="https://cdn.discordapp.com/emojis/831641097557770280.png?v=1" width="22px" align="left"> I'am a gamer too I spend many hours by playing my favorite games like [Skyrim](https://elderscrolls.bethesda.net/en/skyrim), [Read Dead Redemtpion 2](https://www.rockstargames.com/reddeadredemption2/restricted-content/agegate/form?redirect=https%3A%2F%2Fwww.rockstargames.com%2Freddeadredemption2%2F&options=&locale=en_us) or just some [Pokemons](https://www.pokemon.com/us/)
 - <img src="https://cdn.discordapp.com/emojis/831641173205843979.png?v=1" width="22px" align=left> I love drinking TEA, and i hate coffee.
 
- <img src="https://cdn.discordapp.com/emojis/831641113311576084.png?v=1" width="25px" align="left">You can reach me on discord, [`Wukong`](https://discord.com/users/563718132863074324) or join my [`server`](https://discord.com/invite/Zbfvh88dgK)<br>
+ <img src="https://cdn.discordapp.com/emojis/831641113311576084.png?v=1" width="25px" align="left">You can reach me on discord, [`Wukong#4526`](https://discord.com/users/790974094861795408) or join my [`server`](https://discord.com/invite/WeuBKhTZuM)<br>
 
 <br>
 
