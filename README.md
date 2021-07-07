@@ -1,6 +1,6 @@
 # 👋**Hi** i'm [__Wukong__](https://github.com/WukongDEV)
 
-- <img src="https://cdn.discordapp.com/emojis/831641224778874941.png?v=1" align="left" width="22px"> I'm currently working on [**Specty**](https://bots4.fun) cool multipurpose bot for [**discord**](https://discord.com)
+- <img src="https://cdn.discordapp.com/emojis/831641224778874941.png?v=1" align="left" width="22px"> I'm currently working on [**Wukong Labs Manager**](https://discord.com/invite/WeuBKhTZuM) cool multipurpose bot for [**discord**](https://discord.com)
 
 - <img src="https://cdn.discordapp.com/emojis/825478277362876418.png?v=1" align="left" width="22px"> I love listening to music. 
 - <img src="https://cdn.discordapp.com/emojis/831641097557770280.png?v=1" width="22px" align="left"> I'am a gamer too I spend many hours by playing my favorite games like [Skyrim](https://elderscrolls.bethesda.net/en/skyrim), [Read Dead Redemtpion 2](https://www.rockstargames.com/reddeadredemption2/restricted-content/agegate/form?redirect=https%3A%2F%2Fwww.rockstargames.com%2Freddeadredemption2%2F&options=&locale=en_us) or just some [Pokemons](https://www.pokemon.com/us/)
